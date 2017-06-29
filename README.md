@@ -1,2 +1,7 @@
 # MIPS-Assembly-Language
-Python code converted faithfully to MIPS code
+
+Code written in MIPS Assembly Language
+
+This repository consists of the following:
+
+1. Python programs faithfully converted to MIPS Assembly Language programs
